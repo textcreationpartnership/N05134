@@ -108,8 +108,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006458_0000_0000000000000000"/>
-            <pb facs="tcp:006458_0001_0000000000000000" rendition="simple:additions"/>
+            <pb facs="unknown:006458_0000_0000000000000000"/>
+            <pb facs="unknown:006458_0001_0000000000000000"
+                rendition="simple:additions"/>
             <p>GOD's Wonders in the Great Deep: OR, A NARRATIVE OF The Shipwreck of the Brig<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ntine <hi>Alida</hi> and <hi>Catharine, IOSEPH BAILEY,</hi> 
@@ -171,7 +172,7 @@
          </div>
          <div type="to_the_reader">
             <pb n="3"
-                facs="tcp:006458_0002_0000000000000000"
+                facs="unknown:006458_0002_0000000000000000"
                 rendition="simple:additions"/>
             <head>TO THE Christian READER.</head>
             <p>ITS not with a View or Design to move any One'<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -250,7 +251,7 @@
                </gap>ked, without either Shoe or Stocking, and some of them not a Iack<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t to their Back, in this terrible Season of the Year, that the Sea seem'd to
-<pb n="4" facs="tcp:006458_0003_0000000000000000"/>
+<pb n="4" facs="unknown:006458_0003_0000000000000000"/>
 be the only Shelter from the cold and piercing Wind: And above all for our wonderful D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>liverance, when all our Hopes of Assistance fail'd, the Vessel having pass'd by us the Evening before<g ref="char:punc">▪</g> not discovering our Distress, and was insensibly brought back in the Night and Calm; so that they discover'd our Distress and took us off, after we had been seven Nights and six Days on the Wreck, and consequently in a perishing Condition! <hi>O that Men would praise the Lord for his Goodness, and for his wonderful Works to the Children of Men.</hi> Likewise desire your Prayers that God would send down the health<g ref="char:EOLhyphen"/>ful Spirit of his Grace into our Hearts; that we may make a right Improvement of these his Iudgments and tender Mercies; that we may be enabled to pay our Vows made in our Distress<g ref="char:punc">▪</g> and hereafter live a sober, righteous and godly Life, to the Honour and Glory of his great Name, and to the Saving of our precious and immortal Souls, through Iesus Christ, <hi>Amen.</hi>
@@ -263,7 +264,7 @@ be the only Shelter from the cold and piercing Wind: And above all for our wonde
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:006458_0004_0000000000000000"/>
+            <pb facs="unknown:006458_0004_0000000000000000"/>
             <head>A <hi>NARRATIVE,</hi> &amp;c.</head>
             <p>I <hi>Ioseph Bailey,</hi> being Master of the Brigantine <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -306,7 +307,7 @@ be the only Shelter from the cold and piercing Wind: And above all for our wonde
                </gap>, and <hi>Anthony Suga,</hi> a Negro Man belonging to myself.) Before we had lost Sight of the Land, it beg<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n to look very dismal, and lightned all round.
-<pb n="6" facs="tcp:006458_0005_0000000000000000"/>
+<pb n="6" facs="unknown:006458_0005_0000000000000000"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> Night it bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -391,7 +392,7 @@ be the only Shelter from the cold and piercing Wind: And above all for our wonde
                   <desc>〈…〉</desc>
                </gap>
                <g ref="char:punc">▪</g>
-               <pb n="7" facs="tcp:006458_0006_0000000000000000"/>
+               <pb n="7" facs="unknown:006458_0006_0000000000000000"/>
 every thing that was moveable, Lumber, Coop<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, and Water-Casks; and for some Time the People w<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -418,7 +419,7 @@ every thing that was moveable, Lumber, Coop<gap reason="illegible" resp="#PDCC" 
                <g ref="char:punc">▪</g> and cut th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>m likewise; The Fore-Mast immediately broke off close by the Deck,
-<pb n="8" facs="tcp:006458_0007_0000000000000000"/>
+<pb n="8" facs="unknown:006458_0007_0000000000000000"/>
 and by that Time the Vessel had winded so that her Deck came to the Wind, which taking in her Gunnel she immediately righted, and soon fell down on her Starboard Broad-Side. We immediately got on board as she righted, and fell on our Knees, desiring God to spare us: But as she fell down again we were oblig'd to shift for our selves, to get on the Weather Bow, where the Fore-Mast Yard and Rigging prevented my getting up for some Time, so that the Sea struck me back several Times, that I could scarce recover to se<g ref="char:EOLhyphen"/>cure my self from being drowned, till at length I got hold. In the mean Time <hi>Sam. Parsons</hi> got <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ft on the Larboard Gunnel, and with the Assistance of the Mate cut the Lanyards of the Main-Shroud, and came for<g ref="char:EOLhyphen"/>ward. By that Time she righted the second Time, and immediately fell over again on her Larboard Side, and in my getting over I found the Fore Scuttle to blow up under my Feet, and the Vessel to be full of Water.</p>
@@ -462,7 +463,7 @@ and by that Time the Vessel had winded so that her Deck came to the Wind, which 
                </gap> Situation. I perceiv'd the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> to be going, and the Vessel begin to
-<pb n="9" facs="tcp:006458_0008_0000000000000000"/>
+<pb n="9" facs="unknown:006458_0008_0000000000000000"/>
 right<g ref="char:punc">▪</g> on which I call'd out with a good <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> a strong Confidence in God, seeing she did not <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -504,7 +505,7 @@ right<g ref="char:punc">▪</g> on which I call'd out with a good <gap reason="i
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>lloe, which we answer'd, and it was something of a Surprize to us, not doubting but that he was drowned; but upon our Answers he came to us, which was a great Joy to us, to think God was so wonderfully kind and merciful to preserve us all in this terrible Overthrow: We blessed God, and put up our earnest Prayer to Him in the best Manner we were capable, and waited pa<g ref="char:EOLhyphen"/>tiently for the Return of the Day; at which Time the Weather was something abated, and presented to our View the most terrible Sight that any Mortal can imagine, or Tongue can express<g ref="char:punc">▪</g> The Stern Lights were beat in, and the Bulk-Heads, and the Cabbin
-<pb n="10" facs="tcp:006458_0009_0000000000000000"/>
+<pb n="10" facs="unknown:006458_0009_0000000000000000"/>
 were all blown up, and every Thing wash'd out that was necessary for the Support of Life: We were naked and cold, no Cloaths to put on, nor Victuals to satisfy our craving and hungry Appetites: Our Water that was lash'd on Deck in the best Manner, was gone: O<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>r Boat, that might have been of some Help to us in Case we discover'd a Vessel, was likewise gone: In short every Thing that was above our Main Deck was gone, only-our Quarter Deck remain'd, and the Main-<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -548,7 +549,7 @@ were all blown up, and every Thing wash'd out that was necessary for the Support
                </gap> Bitts that appeared, (th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="11" facs="tcp:006458_0010_0000000000000000"/>
+               <pb n="11" facs="unknown:006458_0010_0000000000000000"/>
 Windless and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> being gone before.) I <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -594,7 +595,7 @@ Windless and <gap reason="illegible" resp="#PDCC" extent="1 word">
                </gap> Apprehensions were such, that if once the Hold who <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>roke up, and the Goods came out, that the Ballast in her would immediately sink her<g ref="char:punc">▪</g> besides, we had Nothing to do it withall. Under those and such like
-<pb n="12" facs="tcp:006458_0011_0000000000000000"/>
+<pb n="12" facs="unknown:006458_0011_0000000000000000"/>
 terrible Apprehensions we pass'd the Day, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> up our most humble and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -649,14 +650,14 @@ terrible Apprehensions we pass'd the Day, <gap reason="illegible" resp="#PDCC" e
                   <desc>•</desc>
                </gap>, though never so valuable.</p>
             <p>
-               <pb n="13" facs="tcp:006458_0012_0000000000000000"/>After our People had fatigue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="13" facs="unknown:006458_0012_0000000000000000"/>After our People had fatigue<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> themselves, and saved what is above mentioned, together with two large Silver Spoons belonging to me, one of the Boys began to make heavy Complaints for want of Drink, not<g ref="char:EOLhyphen"/>withstanding the Apples we had just got were very refreshing to us: This put us upon Thoughts how to come at our Water, and having recovered our Saw and Broad-Ax. <hi>Sam. Parsons</hi> went to work, and cut off the Beams of the fore Part of the fore Scuttle, in order to make room, if possible, to get the Cask out; which to our great Comfort he soon effected, and then secured it in the Bow, on the Starboard Side of the Bowsprit; we likewise got up the best Part of the Bundle of Fish before mentioned<g ref="char:punc">▪</g> We then seemed to be, through God's good Providence, enabled to continue some con<g ref="char:EOLhyphen"/>siderable Time, if it pleased God to continue the Weather moderate. We broach'd the Water, and found it to be very brackish, the Bung not being very tight<g ref="char:punc">▪</g> however we were heartily thankful for that Mercy, as bad as it was, and were as well satisfied as People could possibly be in such miserable Circum<g ref="char:EOLhyphen"/>stances. After which the People wrap'd themselves in the old Fore-Sail, as being very much fatigu'd<g ref="char:punc">▪</g> and I went to work with my small Knife with a Piece of Oznabrigs and a Rope-yarn, and few'd up a Bag in the best Manner I could, and counted two hundred and twenty eight fine large Apples into it, putting my two Silver Spoons in the Middle thereof, thinking it to be the most safest Place, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n lash'd it well fall to the Starboard Crotch on the Quarter Deck; and after hav<g ref="char:EOLhyphen"/>ing secured what Meat and Fish we had, in the best Manner possible, I continued to return Thanks to God for his Mercies, and endeavourd to compose my self as well as I could. Towards the Afternoon I observ'd the Winds begin to rise again, and the Sea ran very high, that it had like to have taken the Sail from the People forward, several Times washing them from the Bows, so that <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t was with Difficulty they recovered<g ref="char:punc">▪</g>
-               <pb n="14" facs="tcp:006458_0013_0000000000000000"/>
+               <pb n="14" facs="unknown:006458_0013_0000000000000000"/>
 at length were obliged to remove aft, and hale the Sail after them, and with Difficulty got it on the Quarter Deck. We divided the Sail as well as we could, and stretch'd a Loof-Tackle fore and aft the Quarter Deck to prevent our washing over board, and then plac'd ourselves in the best Manner possible, my self being next to the Stern. The Sea presently came near us, and soon rouz'd me up, when to my great Grief I perceived a very hard Gale near at Hand, the Wind as I imagin'd being at S.E. I stood some Time and consider'd, then look'd at the Bowsprit; our Flying-J<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>b. Fore stay-Sail and Spritsail being tangled with the Rigging and Boom, lay under our Bowsprit ever since we had been wreck'd; and our Fore-Mast and Fore-top-Masts, with the Yards and all the Sails thereto be<g ref="char:EOLhyphen"/>longing<g ref="char:punc">▪</g> was hanging under our Starboard-Bow, held by the Fore-<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -691,7 +692,7 @@ at length were obliged to remove aft, and hale the Sail after them, and with Dif
                </gap>nd carry'd them all to Leward, and like to have carry'd them all over board; it took the Fore-Sail quite from them, but happily lodg'd about the Leward Stanchu<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> of the Quarter Deck, the Rails being before gone<g ref="char:punc">▪</g>
-               <pb n="15" facs="tcp:006458_0014_0000000000000000"/>
+               <pb n="15" facs="unknown:006458_0014_0000000000000000"/>
 They recovered themselves, and some of them <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> forward; at the same Time I endeavoured to stop the troublesome Par<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -735,7 +736,7 @@ They recovered themselves, and some of them <gap reason="illegible" resp="#PDCC"
                </gap> as much as possible to resign my self to his Pro<g ref="char:EOLhyphen"/>vidence. I went forward again, and there stood in the Water as much as I could, out of the Wind, to keep my self warm: I was so worn out for Want of Rest and <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>eep, I was obliged to hold my self up by my
-<pb n="16" facs="tcp:006458_0015_0000000000000000"/>
+<pb n="16" facs="unknown:006458_0015_0000000000000000"/>
 Hands (or I should have fell into the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>) till they were so cold that I was oblig'd to put them into the Water to warm them.</p>
@@ -772,7 +773,7 @@ Hands (or I should have fell into the <gap reason="illegible" resp="#PDCC" exten
                </gap>nel, being dry, and got a Rope, and stretch'd it from the Cat-head to to the Quarter-Deck Rail, so that we could walk forward for Water without wetting up to our Necks. This Day to our great Grief found ourselves begin to swell, and the Wound<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> and
-<pb n="17" facs="tcp:006458_0016_0000000000000000"/>
+<pb n="17" facs="unknown:006458_0016_0000000000000000"/>
 Bruis<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> we got in the Wreck became very sore and troublesome. Yesterday I contriv'd a Method whereby we could make Use of our Flour; I took a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -789,7 +790,7 @@ Bruis<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>•</desc>
                   </gap>
                </hi> to <hi>Madeira,</hi> and never heard of after; conse<g ref="char:EOLhyphen"/>quently they suffer'd much in that Condition; the Storm, as near as I can remember, happening about the 2d or 3d Day of <hi>Ianuary,</hi> 1718<g ref="char:punc">▪</g> 19: I was therefore strongly possess'd, that about that Time my Dissolution or Deliverance would be fix'd: I likewise consider'd my poor Mother<g ref="char:punc">▪</g> who I expect is now living, I being her only Son; and upon Consideration of the Whole,
-<pb n="18" facs="tcp:006458_0017_0000000000000000"/>
+<pb n="18" facs="unknown:006458_0017_0000000000000000"/>
 resolved (lame as I was in my Right Hand) to cut out in the best Manner I could, on a Barrel Stave, with my Knife, an Account of the Name of the Brigantine, whereunto she belonged, from whence she came, and when and where she over-set, together with my own Name, as being Master; which I was resolved to keep secure, and fallen it to some Part of the Vessel where it might be found, in Case we should all perish, and the Vessel afterward<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> taken up. Accordingly this Day I began, altho' it was Sabbath-Day, my Hands being very much swell'd, and particularly my Right-One, having a Wound on the Inside, occasion'd by the Prick of a Nail the Day before we overset: I finish'd two Lines, but my Hand failing me very much I could do no more, without great Pain· However it being fair pleasant Weather, we kept a wishful sharp Look-out; but Nothing appeared. Towards Evening we con<g ref="char:EOLhyphen"/>triv'd to fix our Lodging in a more commodious Way than we had before, making a Sort of Tent and W<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -798,7 +799,7 @@ resolved (lame as I was in my Right Hand) to cut out in the best Manner I could,
                <g ref="char:EOLhyphen"/>ther Cloth, tacking the Sail out-s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ide with some Nails we had got from wherever we could pull them out, and bringing the other Part over the Rail, stretching a Rope along the Deck fore and aft, so that we could set pretty Up-right when the Water came in, or we were tired with laying down. Thus pass'd the Day, and likewise Monday the first Day of <hi>Ianuary,</hi> nothing remarkable happened, but that a few Barrels of Flour work'd themselves loose and came out; we saved what Nails we could out of the Hoops, to secure our Tent and keep ourselves as dry as we could; for as we had recovered our natural Health, and constantly soaking in the Water, our Flesh became very sore, and our Feet swell'd<g ref="char:punc">▪</g> not one of us having any Shoes<g ref="char:punc">▪</g> we could do Nothing but implore the Assistance of Almighty God, beg his Mercy, and recommend ourselves to his kind Providence, which had protected us hitherto. Towards Evening, considering our deplorable Condition, I pro<g ref="char:EOLhyphen"/>posed to the People, to keep the next Day as a Day of
-<pb n="19" facs="tcp:006458_0018_0000000000000000"/>
+<pb n="19" facs="unknown:006458_0018_0000000000000000"/>
 Fasting and Prayers, to humble ourselves before the Lord, and beg his divine Assistance; which was con<g ref="char:EOLhyphen"/>sented to by most of the People. This Afternoon I perceiv'd the Wind to freshen, and look squally to the Eastward; the Water began to come over our Quarter, and I perceiv'd the Fashion-Piece on our Quarter threw the Sea with a Re-bound over the Deck<g ref="char:punc">▪</g> I went to work with the Broad-Ax and Crow, and got it off, drawing two large Bolts and several Nails that held it; We then plac'd ourselves, and after recommending ourselves to the Almighty, endeavour'd to rest; but the Water coming in<g ref="char:punc">▪</g> soon disconcerted me, and made me get up and try to wipe up the Water, but to no Purpose, it constantly coming in, so that it oblig'd me to get the Piece I had pull'd off our Quarter into my Birth, to sit on and keep me out of the Water; <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> which I sat and lean'd all Night. The Morning came on, being Tuesday the second Day of <hi>Ianuary,</hi> I being f<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -831,7 +832,7 @@ Fasting and Prayers, to humble ourselves before the Lord, and beg his divine Ass
                </gap> with Water until Night, I would take Care they shoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> have none all the next Day. Soon after I found my<g ref="char:EOLhyphen"/>self much affected, so that I poured out my Soul to God in a publick Manner, for the general Cause, and was so over-come that I could scarce utter myself for
-<pb n="20" facs="tcp:006458_0019_0000000000000000"/>
+<pb n="20" facs="unknown:006458_0019_0000000000000000"/>
 Sob<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> and Tears: begging of the Almighty he would <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -943,7 +944,7 @@ Sob<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="21" facs="tcp:006458_0020_0000000000000000"/>
+               <pb n="21" facs="unknown:006458_0020_0000000000000000"/>
 a Piece of Canvas and lash'd it to the Windward Crotch<g ref="char:punc">▪</g> and then came and gave me a Spell<g ref="char:punc">▪</g> We would fain persuade ourselves that she made the best of her Way towards us, she being to Leward of us, and little Wind, though at the same Time it seem'd to me that she made the best of her Way to the Southward without regard<g ref="char:EOLhyphen"/>ing us, as she never shew'd us any Colours, nor ever attempted to tack while Day-Light lasted. We began again to be under sensible Apprehensions of being left<g ref="char:punc">▪</g> and some of the People began to bemoan themselv<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s<g ref="char:punc">▪</g> I still retain'd a strong Confidence in the Almighty that he would deliver us by this Vessel, and therefore answered to this Purpose. <hi>My dear Souls, never distrust the Providence of the Almighty, who is able to save to the last Moment them that put their Trust in him; and as he has been so wonderfully kind to us, and has preserved us all hitherto, I do not doubt but that he will compleat his Mercies by our Deliverance, and in particular by this <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -960,7 +961,7 @@ a Piece of Canvas and lash'd it to the Windward Crotch<g ref="char:punc">▪</g>
                </gap> he would be pleas'd in his Providence to send <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> to our Relief: Then after recommending
-<pb n="22" facs="tcp:006458_0021_0000000000000000"/>
+<pb n="22" facs="unknown:006458_0021_0000000000000000"/>
 ourselves to his kind Providence, and begging Pro<g ref="char:EOLhyphen"/>tection for the Night, we endeavour'd to repose our<g ref="char:EOLhyphen"/>selves as well as we could. Soon after we discover'd it to be a flat Calm, and towards Mid-Night a small Breeze southerly, which gave us great Hopes that the Vessel would be in Sight<g ref="char:punc">▪</g> in the Morning, whether they endeavour'd or not: We had the comfortablest Night of any we had whilst on the Wreck, considering the different Motions in our Hearts of Hope and Despair.</p>
             <p>At Length the Morning came on, when I, being awake very much in the Night, did not <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -993,7 +994,7 @@ ourselves to his kind Providence, and begging Pro<g ref="char:EOLhyphen"/>tectio
                </gap> see their Hall. At length to our great Joy and Satis<g ref="char:EOLhyphen"/>faction, we see her bearing away for us, and <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="23" facs="tcp:006458_0022_0000000000000000"/>
+               <pb n="23" facs="unknown:006458_0022_0000000000000000"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> they could make, and came down to us. No <gap reason="illegible" resp="#PDCC" extent="1 span">
